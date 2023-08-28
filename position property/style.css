@@ -1,0 +1,13 @@
+*body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.box-set,.box{
+    border-radius: 6px;
+}
+.box-set{
+    background-color: whitesmoke;
+}
+.box{
+    
+}
